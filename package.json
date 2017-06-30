@@ -1,0 +1,30 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tracyloveswork/FriendFinder.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "path",
+    "body-parser"
+  ],
+  "author": "Tracy K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tracyloveswork/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/tracyloveswork/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
